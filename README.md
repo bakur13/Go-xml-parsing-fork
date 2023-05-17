@@ -21,8 +21,8 @@ Bu proje, Go programlama dili kullanarak XML dosyasını okuyan ve içerisindeki
 
 Geliştirmeler yapmak ve projeye katkıda bulunmak isterseniz, aşağıdaki adımları takip edebilirsiniz:
 
-1. Projeyi fork edin[ (https://github.com/bakur13/go-xml-parsing/fork)]
-2. Yeni bir dal (branch) oluşturun:
+1. Projeyi fork edin[ (https://github.com/bakur13/Go-xml-parsing/fork)]
+2. Branch oluşturun:
 
 
 3. Yapılan değişiklikleri commit edin:
