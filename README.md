@@ -10,7 +10,7 @@ Bu proje, Go programlama dili kullanarak XML dosyasını okuyan ve içerisindeki
 2. Proje klasörüne gidin:
 
 
-3. `personeller.xml` dosyasını düzenleyerek XML verilerini değiştirebilirsiniz. Dosyayı bir metin düzenleyiciyle açarak XML yapısını koruyarak verileri güncelleyin.
+3. `product.xml` dosyasını düzenleyerek XML verilerini değiştirebilirsiniz. Dosyayı bir metin düzenleyiciyle açarak XML yapısını koruyarak verileri güncelleyin.
 
 4. Projeyi çalıştırın:
 
